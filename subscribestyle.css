@@ -38,14 +38,14 @@
 }
 
 @media (max-width: 500px) {
-  .content,
+  .collapsible,
   .pigeon-iframe {
     width: 100%;
   }
 }
 
 @media (max-width: 500px) {
-  .collapsible {
+  .content {
     width: calc(100% - 36px);
   }
 }
